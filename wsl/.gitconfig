@@ -1,0 +1,9 @@
+[user]
+	name = vikram(wsl)
+	email = vikramjit360@gmail.com
+[color]
+	ui = auto
+[core]
+	editor = code --wait
+[init]
+	defaultBranch = main
