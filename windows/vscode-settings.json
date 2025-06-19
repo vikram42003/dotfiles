@@ -1,0 +1,159 @@
+{
+  "editor.guides.indentation": false,
+  "editor.fontSize": 16,
+  "vscode-pets.petSize": "medium",
+  "vscode-pets.theme": "forest",
+  "vscode-pets.throwBallWithMouse": true,
+  "vscode-pets.petColor": "white",
+  "files.autoSave": "afterDelay",
+  "code-runner.runInTerminal": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
+  "emmet.syntaxProfiles": {},
+  "emmet.preferences": {},
+  "emmet.includeLanguages": {
+    "html": "html",
+    "css": "css",
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "cmake.additionalCompilerSearchDirs": [
+    "C:/msys64/mingw32/bin",
+    "C:/msys64/clang32/bin",
+    "C:/msys64/clang64/bin",
+    "C:/msys64/clangarm64/bin",
+    "C:/msys64/ucrt64/bin"
+  ],
+  "window.titleBarStyle": "custom",
+  "vscode_vibrancy.opacity": 0.1,
+  "vscode_vibrancy.theme": "Tokyo Night Storm",
+  "vscode_vibrancy.type": "appearance-based",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.mouseWheelZoom": true,
+  "html.format.indentInnerHtml": true,
+  "javascript.format.semicolons": "remove",
+  "editor.linkedEditing": true,
+  "tabnine.experimentalAutoImports": true,
+  "html.autoClosingTags": true,
+  "javascript.autoClosingTags": true,
+  "typescript.autoClosingTags": true,
+  "vsicons.dontShowNewVersionMessage": true,
+  "workbench.colorTheme": "Violet Ultima",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "C_Cpp.default.compilerPath": "/usr/bin/g++",
+  "C_Cpp.legacyCompilerArgsBehavior": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "css.enabledLanguages": ["html"],
+  "quokka.showStartViewOnFeatureRelease": false,
+  "workbench.settings.applyToAllProfiles": [],
+  "terminal.explorerKind": "both",
+  "glassit.step": 85,
+  "redhat.telemetry.enabled": false,
+  "glassit.force_sway": true,
+  "glassit.alpha": 255,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+  "maven.executable.path": "C:\\Program Files\\apache-maven-3.9.6\\bin\\mvn.cmd",
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java",
+    "editor.tabSize": 4
+  },
+  "[cpp]": {
+    "editor.tabSize": 4
+  },
+  "python.defaultInterpreterPath": "\"C:\\Users\\vikra\\AppData\\Local\\Programs\\Python\\Python312\\python.exe\"",
+  "terminal.integrated.suggest.enabled": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.detectIndentation": true,
+  "editor.indentSize": "tabSize",
+  "editor.tabSize": 2,
+  "eslint.useESLintClass": true,
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ],
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.format.enable": true,
+  "git.autofetch": true,
+  "tailwindcss-intellisense.trace.server": "messages",
+  "tailwindCSS.emmetCompletions": true,
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "terminal.integrated.persistentSessionReviveProcess": "onExitAndWindowClose",
+  "vs-kubernetes": {
+    "vscode-kubernetes.helm-path-linux": "/home/vikram/.local/state/vs-kubernetes/tools/helm/linux-amd64/helm",
+    "vscode-kubernetes.kubectl-path-linux": "/home/vikram/.local/state/vs-kubernetes/tools/kubectl/kubectl"
+  },
+  "prettier.experimentalTernaries": true,
+  "workbench.colorCustomizations": {
+    "[Violet Ultima]": {
+      "tab.border": "#07000e",
+      "editorGroupHeader.tabsBorder": "#0a001e",
+      "tab.activeBackground": "#27015b",
+      "tab.hoverBackground": "#1f0049",
+      "titleBar.border": "#07000e",
+      "statusBar.border": "#07000e",
+      "editorGutter.modifiedBackground": "#FFA500",
+      "editorGutter.deletedBackground": "#F05A5A",
+      "editorGutter.addedBackground": "#13bb13",
+      "badge.background": "#b700ff",
+      "editorCursor.foreground": "#6ce9f6"
+    }
+  },
+  "editor.tokenColorCustomizations": {
+    "[Violet Ultima]": {
+      "textMateRules": [
+        {
+          "scope": "variable.other.constant",
+          "settings": {
+            "foreground": "#FF00CC"
+          }
+        },
+        {
+          "scope": ["entity.name.class", "support.class"],
+          "settings": {
+            "foreground": "#00FFFF"
+          }
+        }
+      ]
+    }
+  },
+  "editor.acceptSuggestionOnEnter": "off",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "prettier.printWidth": 120,
+  "vs-code-prettier-eslint.prettierLast": true,
+  "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+  "security.allowedUNCHosts": [
+    "wsl.localhost"
+  ],
+  "code-runner.executorMap": {
+    "python": "python3"
+  },
+  "debug.autoExpandLazyVariables": "on",
+  "java.debug.settings.showLogicalStructure": true,
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true
+  },
+  "window.zoomLevel": -0.5
+}
